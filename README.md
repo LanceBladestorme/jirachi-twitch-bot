@@ -1,1 +1,1 @@
-# meloetta-twitch-bot
+# jirachi-twitch-bot
